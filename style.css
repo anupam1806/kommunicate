@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+.outer{
+    border: 2px solid #2DD35C;
+    display: flex;
+    flex-direction: row;
+    width: 145vh;
+    padding: 62px;
+    padding-left: 250px;
+    z-index: 0;
+    margin-top: 15%;
+    border-top-right-radius: 400px;
+    border-bottom-right-radius: 30px;
+}
+.box{
+    height: 25vh;
+    border: 2px solid #5553B7;
+    position: absolute;
+    right: 0;
+    z-index: 2;
+    background-color: #5553B7;
+    margin-top: -1vh;
+    opacity: 0.5;
+    border-top-left-radius: 400px;
+    border-bottom-left-radius: 30px;
+    width: 90vh;
+}
+.container{
+    display: grid;
+    z-index: -1;
+}
+.free{
+    height: 36px;
+    background-color: #2DD35C;
+    color: #ffffff;
+    border-radius: 90px;
+    padding: 12px;
+    border: none;
+}
+.demo{
+    height: 36px;
+    background-color: #ffffff;
+    color: #5553B7;
+    margin-left: 20px;
+    border-radius: 90px;
+    padding: 10px;
+    border: 1px solid #5553B7;
+}
+.commerce{
+    font-weight: bold;
+    color: #5553B7;
+}
