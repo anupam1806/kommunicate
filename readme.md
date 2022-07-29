@@ -19,3 +19,8 @@ function reverse_a_number(n)
 Question 4 :- 
 I had made my portfolio website using React.js added all my experience, internship, projects, and education details.
 	Here is my project link :- https://portfolio-anupam.herokuapp.com/
+
+Question 5 :- 
+I would like to work with Anchal Porwal and Rishav Kabra as a partner because earlier we had worked on many projects related to course, hackathon, and group projects. We had a
+good understanding and and management for a smooth workflow and completion of project before the deadline and a quality best of our knowledge. Best thing we all have different
+tech-stack specilization to  work on a project and can help each other in any huddles regarding the project.
