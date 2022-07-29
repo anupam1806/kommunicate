@@ -9,3 +9,9 @@ var url_string = "https://www.kommunicate.io/poweredby?utm_source=https://www.ko
 	console.log(d);
  
 Question 3 :- 
+function reverse_a_number(n)
+	{
+		n = n + "";
+		return n.split("").reverse().join("");
+	}
+	console.log(Number(reverse_a_number(149)));
